@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from flask import Flask, render_template, request, jsonify
 import os
 
@@ -45,7 +44,7 @@ if __name__ == "__main__":
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
-=======
+
 from flask import Flask, render_template, request, jsonify
 import os
 
@@ -92,4 +91,4 @@ if __name__ == "__main__":
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
->>>>>>> 4829f9be82dfc91410caf26c250f98c3376d6a3a
+
