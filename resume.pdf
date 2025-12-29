@@ -1,0 +1,5 @@
+<a href="resume.pdf" download>
+  <button>Download Resume</button>
+</a>
+<iframe src="/uploads/resume.pdf" width="100%" height="400px"></iframe>
+<iframe src="/uploads/resume.pdf" width="100%" height="500px"></iframe>

@@ -1,0 +1,9 @@
+
+----- AI GENERATED PORTFOLIO -----
+
+Name: karthi 
+Skill: python
+Role: developer
+
+About Me:
+I am passionate about learning new technologies and building real-world applications.
