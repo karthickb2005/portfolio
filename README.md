@@ -1,12 +1,11 @@
-# AI Portfolio Website
+# AI Portfolio Builder 🚀
 
-A personal portfolio built using Flask, HTML, CSS, and JavaScript.
+A web app that allows users to upload their resume and automatically generate a portfolio website.
 
-## Features
-- Resume upload
-- Profile section
-- Responsive UI
-- Deployed on Render
+## Tech Stack
+- Python (Flask)
+- HTML, CSS, JavaScript
+- Render (Deployment)
 
 ## Live Demo
-https://portfolio-pd6y.onrender.com
+👉 https://portfolio-pd6y.onrender.com
